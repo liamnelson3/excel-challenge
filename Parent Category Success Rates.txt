@@ -1,0 +1,40 @@
+
+Film and Video
+117 total minus live and canceled
+64.96% success
+35.04% fail
+
+    Television
+    14 total minus live and canceled
+    78.57% success
+    21.42% fail
+
+    Animation
+    34 total minus live and canceled
+    67.74% success
+    32.25% fail
+
+Music
+123 total minus live and canceled
+64.23% success
+35.77% fail
+
+    Rock
+    79 total minus live and canceled
+    62.03% success
+    37.97% fail
+
+    Jazz
+    16 total minus live and canceled
+    62.5% success
+    37.5% fail
+
+Technology
+69 total minus live and canceled
+65.22% success
+34.78% fail
+
+    Web
+    49 total minus live and canceled
+    75% success
+    25% fail
